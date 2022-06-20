@@ -1,0 +1,19 @@
+.todo-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.todo-box div {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.material-icons:hover {
+    cursor: pointer;
+}
+
+.text {
+    width: 500px;
+    word-wrap: break-word;
+}

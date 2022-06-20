@@ -1,0 +1,17 @@
+.about-page {
+    height: 100vh;
+    margin-top: -50px;
+    width: auto;
+    background-image: url(https://farbatek.com.ua/wp-content/uploads/2020/06/zastavka-poroshkovaya-kraska-Farbatek.jpg);
+    color: white;
+}
+
+.about-header {
+   padding-top: 100px;
+   padding-left: 100px
+
+}
+
+.about-text {
+    padding: 20px;
+}
